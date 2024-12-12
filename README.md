@@ -1,1 +1,35 @@
-# LA120
+java c
+LA120   Fall 2024   Final   Project 
+A Topo Plan that Elevates 
+What are GRADING   PLAN   GRAPHICS?
+“There are two basic types of grading plan. The first is the conceptual grading plan that communicates the design intent but is not usually an accurate or engineering representation of the ground form (Figure 1). The audience for this plan is normally the client, who maybe an individual, an architect, or a public agency, and its purpose is to make the proposed concept easily understandable. The second is the grading plan executed as part of a set of construction documents (Figure 2). The purpose of this plan is to interpret accurately the design intent and communicate this information effectively to the grading contractor. The plan, in conjunction with the technical specifications, must provide complete instructions concerning the nature and scope of the work to be performed as well as a solid basis for estimating the cost involved. The success of a project depends on the accuracy, completeness, and clarity of the construction drawings.” (Storm, 2012,   P108, AKA   your   textbook)
+
+In this class, we   have learned the essential skills of   reading,   calculating,   and   drawing   topographic forms.   In other words, we   have learned   how   to grade.   It is   time   to implement your thoughts   and skills into your design works.   Use the grading   mind, topographic   plans, and other thinking and representation skills to   not   only   make the design   more complete   but also   help you   reflect on the design   itself. This   rational   review   draws your attention to the   previously neglected that   can   improve your   design   and trigger innovative solutions that could then become the   design.   Grading   is   not   an   add-on feature of landscape architecture,   it   is   not a something you can   “figure   out   later” or “let the civil engineers   do   it”. GRADING   IS   DESIGN.   Earth   is always your   most   important media   if not the only   media, either covered or exposed,   planted or   remove.   “Practical”   is   not always   pleasant to the ears of the design students, who   may   (as   I   did)   interpret   it   as   banal or compromising.   Building a livable space, or even just thinking   about   achieving   a   livable design on the   human scale, is a   considerable   achievement   and   a   basic responsibility of landscape architects at the same time. The   grading training   gives   your   design   roots to the ground and   brings   it one step further   into   reality. To those   guest critics who always say, “You can   never build that   in   real   life,” the   grading will   prove them   wrong (or   not   100%   right).
+The goal of this   practice   is   not to steal civil engineers’ jobs nor   provide the   most   legible   grading   plan for site construction but simply generate a   “Topo   Plan” as   a   tool   to represent your design’s topographic condition and its   rational foundations to your proposed function and   programs. Also, use   it as a design   method   and   integrate the grading into the design reflections. We aim   at this   process   of   acknowledging   and reducing the discrepancy between   great design and great   practice.   With   the   traditional   two-dimensional media and the legacy of grading   plans, we will   consider   preparing   a more descriptive plan that penetrates the viewer’s   pictorial   perception with the topographic form. rather than a beautiful rendering with   mere   colors   and   shapes   hanging   on the wall. 
+Site Selection: 
+Pick one of you代 写LA120 Fall 2024 Final Project
+代做程序编程语言r design works from the previous or current   design   studios that   you want   to develop further with more grading thinking. The site should   ideally   be   smaller than 12,000 sqft to sustain enough human-level grading   details. Therefore,   it   could   be   a   small part of your design from a larger   planning work that   you   can   develop. 
+You can   not   make   up a   project for the final   project; you   must own and   know this   project   to a certain degree and be able   to   generate   a   spatial   understanding   with   better resolution. We   hope the   process and the outcome can help you   improve   your   design   and even find ways to your portfolios   or your studio's   presentations. 
+Scope and Representation: 
+1.      Basic slope analysis on   proposed surfaces.
+2.      Overall water drainage, show the diversion of water from significant built   elements.
+3.      Pedestrians or vehicular accessibility. Consider ADA, stairs, ramps and   parking   design.
+4.      Existing and proposed contour lines or other   representations   of topographic   change.
+5.      Cut and fill analysis,   diagrammatic or statistic.
+6.      Tree protection/removing or siting   building.
+7.      Other features you’s like to   represent.
+Deliverables and Participations: 
+1. (60%) Drawings, a plan of the design area, and supplementary sections if needed. 
+On   Paper only.   Even today, with all the   modern spectacles and technologies, we   shouldn’t stop investigating the two-dimensional platform. This   has   little to   do with   preserving the traditional media but more   about the   reception   of   information   in the   most direct way. Consider your drawing a tool or   document   one   can fold/roll and carry around. The information   is clear   and   concise   as   soon   as   it’s    pulled out.   No   headset,   no goggles,   no   model assemblage,   no   mouse dragging   on one lap while standing with the other leg.   Unfolding   the   paper   means unfolding the topographic form. of the site.            2. (20%) A reflection note: How does the process of composing the Topo Plan 
+change your design and thinking? 
+I   know you are   probably   reading this a   week or a day   before the   due   date   to   fulfill   the requirement,but this page is   not   for   me.   If the course   is   too   practical   and boring compared to the other courses offered by   the   department,   this   reflection   is   a perfect chance to help you synthesize your   beautiful   design   concepts   with actual   human (or whatever you are designing for) experience.   Is the   process a compromise or an improvement? Why does it   (or   not)   change your   design?   What   should   betaken   into   consideration   in   the   future?   This   reflection   offers   you   an embodied perception of your own design and design thinking;   please spend   enough time thinking and drafting.
+3. (20%) The lecture series and workshop (or field trip) 
+In the last 4 weeks of semesters, the three weeks   of final project workshops   will   offer a series of lectures and desk critique   opportunities. Attendance   is mandatory.
+Schedule: 
+The teaching team   has to approve your Site Selection   by   November   1th   November   15, WEEK   12:   Final   Project Workshop
+November 22, WEEK   13:   Final   Project Workshop
+November 29, WEEK   14: THANKSGIVING   BREAK (NO CLASS)   December 6, WEEK   15:   Final   Project Workshop
+December   13, WEEK   16:   RRR Week. Final Project Due.
+
+         
+加QQ：99515681  WX：codinghelp  Email: 99515681@qq.com
